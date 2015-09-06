@@ -1,0 +1,15 @@
+header  {
+    text-align: center;
+}
+main section h2{
+    color: red;
+}
+main section h3{
+    color: blue;
+}
+body {
+    background-color: orange;
+}
+footer {
+    color: red;
+}
